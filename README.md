@@ -1,2 +1,2 @@
 # hangman-game
-a hangman python script i coded for my coding class
+A hangman python script I coded for my coding class.
